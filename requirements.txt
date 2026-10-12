@@ -1,4 +1,4 @@
 fastapi
 uvicorn[standard]
-edge-tts==7.2.8
+edge-tts @ git+https://github.com/jonata/edge-tts.git@fix-locale-independent-server-date
 python-multipart
